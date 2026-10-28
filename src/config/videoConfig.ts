@@ -20,7 +20,7 @@
  */
 
 // >>> INSERT YOUR VIDEO URL HERE: <<<
-export const VIDEO_URL: string = ""; 
+export const VIDEO_URL: string = "/src/config/campusconnect-demo.mp4"; 
 
 // Optional video poster / thumbnail image URL:
 export const VIDEO_POSTER: string = "/src/assets/images/project_video_poster_1793204723172.jpg";
