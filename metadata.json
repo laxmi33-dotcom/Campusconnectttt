@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect — Smart Student Portal & College Management",
+  "description": "Smart web-based student portal and college management system connecting students, faculty, and administrators with academics, attendance, timetable, and campus updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
